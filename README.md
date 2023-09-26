@@ -1,53 +1,55 @@
-Planner-halloween-party
+# Planner-halloween-party
 
-<05-challenge>
+# <05-challenge>
 
-Description
+## Description
 
 Week 5 we have learned Third Party APIs which included jQuery Elements, Click events, Form Elements, Dom Traversal, Event Delegation, Bootstrap Layout, utilities and Extend Etc. Also learned about How to use DayJS Format to integrate a calendar and time to our site. In this challenge we were tasked with creating a Calendar that stored input in local storage and made it persist on page reload.
 
-Table of Contents (Optional)
+## Table of Contents (Optional)
 
 n/a
 
-Installation
+## Installation
 
 n/a
 
-Usage
+## Usage
 
 n/a
 
-Screenshot
+## Screenshot
 
 Alt text
 
-links
+## links
 
-Repository: https://github.com/hfelix3/Planner-halloween-party
+Repository: 
+https://github.com/hfelix3/Planner-halloween-party
 
-Deployed: https://hfelix3.github.io/Planner-halloween-party/
+Deployed: 
+https://hfelix3.github.io/Planner-halloween-party/
 
-Credits
-
-n/a
-
-License
+## Credits
 
 n/a
 
-Badges
+## License
 
 n/a
 
-Features
+## Badges
 
 n/a
 
-How to Contribute
+## Features
 
 n/a
 
-Tests
+## How to Contribute
+
+n/a
+
+## Tests
 
 n/a
